@@ -1,36 +1,41 @@
-# Kevin Mesiab - Senior Full Stack Developer 👨‍💻🚀
+# Kevin Mesiab
 
-Hello there, fellow coders, thinkers, and digital wanderers! Welcome to my personal GitHub page, a humble corner of the internet where code meets creativity. I'm Kevin, your friendly neighborhood developer with a knack for turning redbull into binary. ☕💻
+> Software Engineer, Polymath, and Founder in Seattle
 
 ## About Me
 
-With roots in Boise State University and a journey through the realms of Marketing and Economics, I found my true calling in Computer Science. 🌐📚 My academic adventures led me from being headhunted by Hewlett Packard to co-founding Wilder Technologies, and then diving head-first into the software startup arena with EasyAd Marketing Software Corp. 🚀
-
-As a CEO, Managing Director, and Chief Techie, I've navigated the turbulent waters of the tech world, leaving a trail of innovative projects and happy clients. Currently, I'm wielding my coding powers at McGraw-Hill, where we're reshaping the future of education. 📚✨
+I'm a father, partner, and polymath with a focus on computer science, engineering, economics, governance, philosophy, and physics.
 
 ## What I Do
 
-As a Senior Full Stack Developer, I juggle a plethora of technologies and frameworks:
+Currently, I write software for McGraw Hill Education, contribute to the open source community, and write nerdy articles on [Medium](https://medium.com/@kmesiab), [Stackacademic](https://stackacademic.com/@kmesiab), and [Substack](https://kevinmesiab.substack.com).
 
-- **Languages & Frameworks:** Go, PHP, python, and a pinch of TypeScript for flavor, among others. 🌐
-- **Cloud & DevOps:** AWS aficionado, crafting cloud architectures and sipping on serverless solutions. ☁️
-- **Web Development:** From spinning up web services to polishing frontend designs. 🖥️
+### Projects
 
-## Projects and Musings
+- **EQ**: The hot new AI-powered mental health copilot app - [my-eq.com](https://my-eq.com)
+- **Property Insights 101**: The "CarFax" of Real Estate - [propertyinsights101.com](https://propertyinsights101.com)
 
-- **AI Code Critic:** An AI-powered desktop app automating code reviews across various languages. 🤖
-- **GoAudibly:** A Golang-based transcription pipeline, watching folders and transcribing audio files like a pro. 🎧
+## My Journey
 
-## Beyond the Code
+> "Creativity is, by definition, the ability to create. So create opportunity. Ignore your detractors, overcome your own doubt. Risk failure, risk humiliation, risk your pride and go confidently in the direction of your aspirations. Your determination is your permission to revel in your success."
+>
+> — Kevin Mesiab, CEO, EasyAd LLC (2007)
 
-- **Life Philosophy:** If you've got tight boots, always have extra lace to lend. 👢🌟
+### The Start
+My humble journey began with undergraduate studies at Boise State University majoring in Marketing and Economics before later switching to Computer Science. I left school early when I was headhunted by Hewlett Packard and spent two years in the commercial MFP R&D labs. I later co-founded Wilder Technologies with two former HP employees, a company focused on commercial printer fleet management software.
 
-## Connect with Me
+### The Evolution
+After selling our flagship product, I founded EasyAd Marketing at the age of 26. I led the company to market leadership and profitability within six months, generating over $1.6 million in revenue before its eventual dissolution following a protracted legal challenge from Craigslist Inc. The journey was invaluable.
 
-Feel free to explore my repositories and drop me a line if something piques your interest. Collaboration, coffee chats, or cosmic musings on the future of tech – I'm all ears! 📬
+### The Hat Trick
+I then established Mesiab Labs LLC, a Social Media Marketing software company based on the North Shore of Oahu. Our portfolio, most notably Hummingbird for Twitter and the acclaimed Retweet.com, has left an indelible mark on the industry, culminating in a record-setting sale.
 
-Let's make the digital world a little more awesome, one commit at a time. Happy coding!
+### The Maturity
+Later I co-founded Jounce, Inc., where I secured Series A funding in 2011. As Chairman of the Board and CTO, I designed and developed our core product, before divesting in 2014 to return to my roots. Currently, the brilliant team is at the forefront of reshaping performance-based marketing, making waves at [Instapage](http://instapage.com).
 
-[LinkedIn](www.linkedin.com/in/kmesiab)
+## Connect With Me
 
-_If there are errors in this document, blame ChatGPT.  It wrote it._
+- 🌐 [Website](https://kevinmesiab.com)
+- 📝 [Medium](https://medium.com/@kmesiab)
+- 📊 [Substack](https://kevinmesiab.substack.com)
+- 🔗 [GitHub](https://github.com/kmesiab)
